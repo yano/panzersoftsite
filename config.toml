@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://s3-ap-northeast-1.amazonaws.com/panzersoft.com/"
 languageCode = "en-us"
 title = "PanzerSoftのホームページ"
 Copyright = "© PanzerSoft All Rights Reserved."
