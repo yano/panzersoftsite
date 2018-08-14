@@ -1,0 +1,54 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "PanzerSoftのホームページ"
+Copyright = "© PanzerSoft All Rights Reserved."
+
+[Params]
+logotype = 'PanzerSoft'
+fullname = "同人サークルpanzerSoftのホームページへようこそ"
+footer = "同人ゲームサークル by satoyan"
+subfooter = "aaaaa"
+
+[menu]
+
+  [[menu.sectionmenu]]
+  name = "About"
+  url = "about/"
+  identifier = "about"
+  weight = 10.0
+
+  [[menu.sectionmenu]]
+  name = "Contact Us"
+  url = "about/contact/"
+  parent = "about"
+  weight = 101.0
+
+  [[menu.sectionmenu]]
+  name = "Projects"
+  url = "project/"
+  identifier = "project"
+  weight = 20.0
+
+  [[menu.sectionmenu]]
+  name = "Hugo-Smorg"
+  url = "project/hugo-smorg/"
+  parent = "project"
+  weight = 201.0
+
+  [[menu.sectionmenu]]
+  name = "Blorg Bread Machine"
+  url = "project/blorg-bread-machine/"
+  parent = "project"
+  weight = 202.0
+
+  [[menu.sectionmenu]]
+  name = "XYZ-1000"
+  url = "project/xyz-1000/"
+  parent = "project"
+  weight = 203.0
+
+  [[menu.sectionmenu]]
+  name = "Blog"
+  url = "post/"
+  weight = 30.0
+
