@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b2a8fa3-7b74-435c-8eca-bbc996ef7bee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/images/tn.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/home/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/home/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/smorg.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/smorg.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/smorg.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/smorg.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/bulmaswatch/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bulmaswatch/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-smorg/scss/bulmaswatch/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-smorg/scss/bulmaswatch/Gemfile.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,7 +32,7 @@
           <entry key="gitmodules" value="1" />
           <entry key="html" value="6" />
           <entry key="json" value="1" />
-          <entry key="lock" value="1" />
+          <entry key="lock" value="2" />
           <entry key="md" value="14" />
           <entry key="png" value="1" />
           <entry key="scss" value="1" />
@@ -52,7 +49,7 @@
           <entry key="Image" value="1" />
           <entry key="JSON" value="1" />
           <entry key="Markdown" value="14" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="7" />
           <entry key="SCSS" value="1" />
           <entry key="XML" value="1" />
           <entry key="YAML" value="5" />
@@ -62,6 +59,7 @@
         <counts>
           <entry key="css" value="2" />
           <entry key="html" value="90" />
+          <entry key="lock" value="1" />
           <entry key="md" value="9" />
           <entry key="scss" value="18" />
           <entry key="toml" value="311" />
@@ -74,7 +72,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="90" />
           <entry key="Markdown" value="9" />
-          <entry key="PLAIN_TEXT" value="311" />
+          <entry key="PLAIN_TEXT" value="312" />
           <entry key="SCSS" value="18" />
           <entry key="YAML" value="45" />
         </counts>
@@ -119,7 +117,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/partials/home/default.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
@@ -132,20 +130,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circle.yml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-smorg/scss/bulmaswatch/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="131">
+              <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/circle.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="462">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -185,10 +183,11 @@
       <find>title</find>
       <find>Add params:logotype</find>
       <find>tn.png</find>
+      <find>1.6.8.1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/hugo-smorg/scss/bulmaswatch" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -202,6 +201,7 @@
         <option value="$PROJECT_DIR$/circle.yml" />
         <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/layouts/partials/home/default.html" />
+        <option value="$PROJECT_DIR$/themes/hugo-smorg/scss/bulmaswatch/Gemfile.lock" />
       </list>
     </option>
   </component>
@@ -316,12 +316,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534245713727</updated>
       <workItem from="1534245716000" duration="10601000" />
-      <workItem from="1534337081790" duration="1572000" />
+      <workItem from="1534337081790" duration="1816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12173000" />
+    <option name="totallyTimeSpent" value="12417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-8" width="1872" height="1096" extended-state="6" />
@@ -568,6 +568,13 @@
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#0;n#section#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-smorg/scss/bulmaswatch/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
         </state>
       </provider>
     </entry>
