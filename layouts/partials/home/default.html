@@ -16,20 +16,8 @@
 		</div>
 	</section>
 
-	<!--<section class="hero is-large has-bg-img">-->
-		<!--<div class="hero-body">-->
-			<!--<div class="container has-text-centered">-->
-				<!--<h1 class="title">Title 1</h1>-->
-				<!--<h2 class="subtitle">Subtitle 3</h2>-->
-			<!--</div>-->
-		<!--</div>-->
-	<!--</section>-->
-
 	<div class="hero-body">
 		<div class="container">
-
-
-
 
 			<div class="columns">
 				<div class="column is-8 is-offset-2 has-text-centered">
@@ -39,19 +27,12 @@
 						{{ else }}{{ "Add params:fullname" }}{{end}}
 					</h2>
 
-
 					<div class="content">
-
-
-					{{ .Content }}
-
-
-
+						{{ .Content }}
 					</div>
 
-
-
 					<div class="columns">
+
 						<div class="column">
 							<h3 class="subtitle has-text-primary is-marginless">Posts</h3>
 							<ul>
@@ -61,6 +42,7 @@
 							<li><a href="{{ "post/" | absURL}}">More posts<span class="icon">➤</span></a></li>
 							</ul>
 						</div>
+
 						<div class="column">
 							<h3 class="subtitle has-text-primary is-marginless">Projects</h3>
 							<ul>
@@ -70,6 +52,7 @@
 							<li><a href="{{ "project/" | absURL }}">More projects<span class="icon">➤</span></a></li>
 							</ul>
 						</div>
+
 					</div>
 				</div>
 			</div>

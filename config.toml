@@ -4,10 +4,11 @@ title = "PanzerSoftのホームページ"
 Copyright = "© PanzerSoft All Rights Reserved."
 
 [Params]
-logotype = 'PanzerSoft'
-fullname = "同人サークルpanzerSoftのホームページへようこそ"
-footer = "同人ゲームサークル by satoyan"
-subfooter = "aaaaa"
+logotype = '<span class="has-text-weight-bold">Panzer<span class="has-text-info">Soft</span></span>'
+#'PanzerSoft'
+fullname = "同人ゲームサークル panzerSoft のホームページへようこそ"
+footer = "This site is made by satoyan"
+subfooter = "twitter"
 
 [menu]
 
