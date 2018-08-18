@@ -5,7 +5,8 @@
 		<p class="subtitle has-text-grey-light is-6">
 		{{ partial "page-date.html" . }}{{ partial "page-status.html" .}}</p>
     </header>
-	{{ .Summary }} {{ if .Truncated }}<a href='{{ .Permalink }}'><nobr>Continue reading ({{ .FuzzyWordCount }} words)...</nobr></a>{{end}}
+    <!--{{ .Summary }} {{ if .Truncated }}<a href='{{ .Permalink }}'><nobr>Continue reading ({{ .FuzzyWordCount }} words)...</nobr></a>{{end}}-->
+    {{ .Summary }} {{ if .Truncated }}<a href='{{ .Permalink }}'><nobr>続きを読む ...</nobr></a>{{end}}
   <footer>
   </footer>
 </article>

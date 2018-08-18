@@ -13,7 +13,12 @@
 // 2 
 $body-size:16px; 
 $link: hsl(217, 71%,  53%);
+
 $family-sans-serif: "Open Sans", system-ui, sans-serif;
+//$family-sans-serif: "Noto Sans Japanese", system-ui, sans-serif;
+//$family-sans-serif: "Rounded Mplus 1c", system-ui, sans-serif;
+//$family-sans-serif: "Mplus 1p", system-ui, sans-serif;
+
 $family-primary: $family-sans-serif;
 $family-monospace: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
 // 3
@@ -32,6 +37,12 @@ $family-monospace: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, 
 
 // Optional!
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i);
+//@import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+@import url(//fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
+//@import url(//fonts.googleapis.com/earlyaccess/mplus1p.css);
+
+
+@import url(https://fonts.googleapis.com/css?family=Passero+One);
 
 // make footer background on short pages seem infinite
 html {
@@ -47,6 +58,22 @@ body > section {
 
 .has-bg-img
 {
-	background: url('/images/header1.png')center center;
+	background: url('/images/header.png')center center;
 	background-size:cover;
 }
+
+.has-bg-img-dmm
+{
+	background: url('/images/header_dmm2.png')center center;
+	background-size:cover;
+}
+
+
+.site-title {
+	font-family: 'Passero One', cursive;
+	font-size: 3rem;
+	font-weight: 300;
+	//color: #009900;
+	//text-shadow: 2px 1px 1px #999; //#d7d7d7;
+}
+

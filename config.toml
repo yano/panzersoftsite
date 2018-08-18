@@ -4,10 +4,10 @@ title = "PanzerSoftのホームページ"
 Copyright = "© PanzerSoft All Rights Reserved."
 
 [Params]
-logotype = '<span class="has-text-weight-bold">Panzer<span class="has-text-info">Soft</span></span>'
+logotype = '<span class="has-text-weight-bold site-title">Panzer<span class="has-text-danger">Soft</span></span>'
 #'PanzerSoft'
 fullname = "同人ゲームサークル panzerSoft のホームページへようこそ"
-footer = "This site is made by satoyan"
+footer = "This site is made by satoyan<br>"
 subfooter = "twitter"
 
 [menu]
@@ -23,6 +23,14 @@ subfooter = "twitter"
   url = "about/contact/"
   parent = "about"
   weight = 101.0
+
+
+
+  [[menu.sectionmenu]]
+  name = "Blog"
+  url = "post/"
+  weight = 30.0
+
 
   [[menu.sectionmenu]]
   name = "Projects"
@@ -47,9 +55,4 @@ subfooter = "twitter"
   url = "project/xyz-1000/"
   parent = "project"
   weight = 203.0
-
-  [[menu.sectionmenu]]
-  name = "Blog"
-  url = "post/"
-  weight = 30.0
 

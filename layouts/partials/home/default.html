@@ -20,8 +20,13 @@
 		<div class="container">
 
 			<div class="columns">
-				<div class="column is-8 is-offset-2 has-text-centered">
+				<!--<div class="column is-9 is-offset-1 has-text-centered">-->
+				<div class="column is-10 is-offset-1 has-text-centered">
+				 <!--has-text-centered">-->
+
+
 					<h1 class="title">{{ partial "logo.html" . }}</h1>
+
 					<h2 class="subtitle">
 						{{ with .Site.Params.fullname }}{{ . }}
 						{{ else }}{{ "Add params:fullname" }}{{end}}
@@ -31,29 +36,125 @@
 						{{ .Content }}
 					</div>
 
-					<div class="columns">
+					<h1 class="title is-1">
+						Projects
+					</h1>
 
-						<div class="column">
-							<h3 class="subtitle has-text-primary is-marginless">Posts</h3>
-							<ul>
-							{{ range first 5 (where .Data.Pages "Section" "post") }}
-							<li><a href="{{.Permalink}}"><span class="icon">✎</span>{{ .Title }}</a></li>
-							{{ end }}
-							<li><a href="{{ "post/" | absURL}}">More posts<span class="icon">➤</span></a></li>
-							</ul>
+					<section class="hero is-info has-bg-img">
+						<a href="">
+
+						<div class="hero-body">
+							<div class="container">
+								<h1 class="title is-1" style="font-weight: 900; -webkit-text-stroke: 1px #000; text-shadow: #000 2px 2px 0;">
+									プリシアディフェンス
+								</h1>
+								<h2 class="subtitle is-4" style="font-weight: 900; -webkit-text-stroke: 0.8px #000;  text-shadow: #000 2px 2px 0;">
+									tyのアセットです
+								</h2>
+							</div>
 						</div>
+						</a>
 
-						<div class="column">
-							<h3 class="subtitle has-text-primary is-marginless">Projects</h3>
-							<ul>
-							{{ range first 5 (where .Data.Pages "Section" "project") }}
-							<li><a href="{{.Permalink}}"><span class="icon">※</span>{{ .Title }}</a></li>
+					</section>
+
+					<section class="hero is-info has-bg-img-dmm">
+						<a href="">
+							<div class="hero-body">
+								<div class="container">
+									<h1 class="title is-1" style="font-weight: 900; -webkit-text-stroke: 1px #000; text-shadow: #000 2px 2px 0;">
+										Desktop Mascot Maker
+									</h1>
+									<!--<h2 class="subtitle">-->
+									<h2 class="subtitle is-4 has-text-weight-bold" style="font-weight: 900; -webkit-text-stroke: 0.8px #000;  text-shadow: #000 2px 2px 0;">
+										Unity でデスクトップマスコットキャラクターを作るUnityのアセット
+									</h2>
+								</div>
+							</div>
+						</a>
+					</section>
+
+					<br>
+
+					<h1 class="title is-1">Blog</h1>
+
+					<!--<div class="columns">-->
+						<!--<div class="column">-->
+
+							<!--<nav class="panel">-->
+								<!--&lt;!&ndash;<p class="panel-heading">&ndash;&gt;-->
+								<!--&lt;!&ndash;Blog&ndash;&gt;-->
+								<!--&lt;!&ndash;</p>&ndash;&gt;-->
+								<!--{{ range first 5 (where .Data.Pages "Section" "post") }}-->
+
+								<!--<a href="{{.Permalink}}" class="panel-block">-->
+								<!--<span class="panel-icon">-->
+									<!--<i class="fas fa-pencil-alt"></i>-->
+								<!--</span>-->
+									<!--{{ .Title }}-->
+								<!--</a>-->
+								<!--{{ end }}-->
+
+								<!--<a href="{{ "project/" | absURL }}" class="panel-block">-->
+								<!--<span class="has-text-centered">-->
+									<!--More posts...-->
+								<!--</span>-->
+								<!--</a>-->
+							<!--</nav>-->
+
+						<!--</div>-->
+					<!--</div>-->
+
+					<div class="tile is-ancestor">
+						<div class="tile is-12 is-vertical is-parent">
+							{{ range first 5 (where .Data.Pages "Section" "post") }}
+
+								<div class="tile is-child box">
+									<div class="title is-4">
+										<a href="{{.Permalink}}">
+										{{ .Title }}
+
+										</a>
+
+										<br>
+									</div>
+
+									<div class="subtitle is-6">
+										{{ partial "page-date.html" . }}
+									</div>
+
+									<p>
+										{{.Summary}}
+									</p>
+								</div>
 							{{ end }}
-							<li><a href="{{ "project/" | absURL }}">More projects<span class="icon">➤</span></a></li>
-							</ul>
 						</div>
 
 					</div>
+					<p>
+						<a href="{{ "post/" | absURL}}">More posts...</a>
+					</p>
+
+					<!--<div class="columns" class="has-text-centered">-->
+						<!--<div class="column">-->
+							<!--<h3 class="subtitle has-text-primary is-marginless">Posts</h3>-->
+							<!--<ul>-->
+								<!--{{ range first 5 (where .Data.Pages "Section" "post") }}-->
+								<!--<li><a href="{{.Permalink}}"><span class="icon">✎</span>{{ .Title }}</a></li>-->
+								<!--{{ end }}-->
+								<!--<li><a href="{{ "post/" | absURL}}">More posts<span class="icon">➤</span></a></li>-->
+							<!--</ul>-->
+						<!--</div>-->
+						<!--<div class="column">-->
+							<!--<h3 class="subtitle has-text-primary is-marginless">Projects</h3>-->
+							<!--<ul>-->
+								<!--{{ range first 5 (where .Data.Pages "Section" "project") }}-->
+								<!--<li><a href="{{.Permalink}}"><span class="icon">※</span>{{ .Title }}</a></li>-->
+								<!--{{ end }}-->
+								<!--<li><a href="{{ "project/" | absURL }}">More projects<span class="icon">➤</span></a></li>-->
+							<!--</ul>-->
+						<!--</div>-->
+					<!--</div>-->
+
 				</div>
 			</div>
 		</div>

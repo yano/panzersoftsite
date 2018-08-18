@@ -1,6 +1,8 @@
 /*! hugo-smorg theme | github.com/solutionroute/hugo-smorg */
 /*! bulma.io v0.6.2 | MIT License | github.com/jgthms/bulma */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i);
+@import url(//fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
+@import url(https://fonts.googleapis.com/css?family=Passero+One);
 @keyframes spinAround {
   from {
     transform: rotate(0deg); }
@@ -6985,5 +6987,14 @@ body > section {
     padding: 0px !important; }
 
 .has-bg-img {
-  background: url("/images/header1.png") center center;
+  background: url("/images/header.png") center center;
   background-size: cover; }
+
+.has-bg-img-dmm {
+  background: url("/images/header_dmm2.png") center center;
+  background-size: cover; }
+
+.site-title {
+  font-family: 'Passero One', cursive;
+  font-size: 3rem;
+  font-weight: 300; }

@@ -2,22 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recycling on PanzerSoftのホームページ</title>
-    <link>http://example.org/tags/recycling/</link>
+    <link>https://panzersoft.com/tags/recycling/</link>
     <description>Recent content in Recycling on PanzerSoftのホームページ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© PanzerSoft All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 03 Mar 2018 09:17:17 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Aug 2018 09:17:17 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/recycling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://panzersoft.com/tags/recycling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>プリシアディフェンス</title>
+      <link>https://panzersoft.com/game/blorg-bread-machine/</link>
+      <pubDate>Sat, 18 Aug 2018 09:17:17 +0000</pubDate>
+      
+      <guid>https://panzersoft.com/game/blorg-bread-machine/</guid>
+      <description>The hand-crafted Blorg Bread Baker&amp;trade; enhances any kitchen. Produced from 100% post-consumer recycled materials you&amp;rsquo;ll never once think&amp;hellip; wait a minute, I&amp;rsquo;m baking my bread in other people&amp;rsquo;s refuse.
+Features  Bakes artisanal bread Slices Doubles as a bread-box Controllable-Anywhere, part of the Internet Of Things  Some versions may include a BetaMax&amp;trade; video tape interface.</description>
+    </item>
+    
+    <item>
       <title>Blorg Bread Baker</title>
-      <link>http://example.org/project/blorg-bread-machine/</link>
+      <link>https://panzersoft.com/game/blorg-bread-machine/</link>
       <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
       
-      <guid>http://example.org/project/blorg-bread-machine/</guid>
+      <guid>https://panzersoft.com/game/blorg-bread-machine/</guid>
       <description>The hand-crafted Blorg Bread Baker&amp;trade; enhances any kitchen. Produced from 100% post-consumer recycled materials you&amp;rsquo;ll never once think&amp;hellip; wait a minute, I&amp;rsquo;m baking my bread in other people&amp;rsquo;s refuse.
 Features  Bakes artisanal bread Slices Doubles as a bread-box Controllable-Anywhere, part of the Internet Of Things  Some versions may include a BetaMax&amp;trade; video tape interface.</description>
     </item>

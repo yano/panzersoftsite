@@ -1,2 +1,12 @@
-{{- range $i, $value := sort . }}{{ if $i }},{{ end }}
-<a href="{{ "tags/" | absLangURL }}{{ $value | urlize }}">{{ $value }}</a>{{ end }}
+{{- range $i, $value := sort . }}
+{{ if $i }}
+,
+{{ end }}
+<!--<div class="tags">-->
+    <span class="tag">
+        <a href="{{ "tags/" | absLangURL }}{{ $value | urlize }}">{{ $value }} </a>
+    </span>
+<!--</div>-->
+<!--<a href="{{ "tags/" | absLangURL }}{{ $value | urlize }}">{{ $value }}</a>-->
+
+{{ end }}

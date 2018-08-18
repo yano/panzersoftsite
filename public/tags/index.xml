@@ -2,121 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PanzerSoftのホームページ</title>
-    <link>http://example.org/tags/</link>
+    <link>https://panzersoft.com/tags/</link>
     <description>Recent content in Tags on PanzerSoftのホームページ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© PanzerSoft All Rights Reserved.</copyright>
     <lastBuildDate>Wed, 07 Mar 2018 02:16:58 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://panzersoft.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bulma</title>
-      <link>http://example.org/tags/bulma/</link>
+      <link>https://panzersoft.com/tags/bulma/</link>
       <pubDate>Wed, 07 Mar 2018 02:16:58 -0800</pubDate>
       
-      <guid>http://example.org/tags/bulma/</guid>
+      <guid>https://panzersoft.com/tags/bulma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dev</title>
-      <link>http://example.org/tags/dev/</link>
-      <pubDate>Sat, 10 Mar 2018 17:23:09 -0800</pubDate>
+      <link>https://panzersoft.com/tags/dev/</link>
+      <pubDate>Sun, 10 Jun 2018 17:23:09 -0800</pubDate>
       
-      <guid>http://example.org/tags/dev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>http://example.org/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>http://example.org/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Howto</title>
-      <link>http://example.org/tags/howto/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/howto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://example.org/tags/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/hugo/</guid>
+      <guid>https://panzersoft.com/tags/dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iot</title>
-      <link>http://example.org/tags/iot/</link>
-      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <link>https://panzersoft.com/tags/iot/</link>
+      <pubDate>Sat, 18 Aug 2018 09:17:17 +0000</pubDate>
       
-      <guid>http://example.org/tags/iot/</guid>
+      <guid>https://panzersoft.com/tags/iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recycling</title>
-      <link>http://example.org/tags/recycling/</link>
-      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <link>https://panzersoft.com/tags/recycling/</link>
+      <pubDate>Sat, 18 Aug 2018 09:17:17 +0000</pubDate>
       
-      <guid>http://example.org/tags/recycling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Templates</title>
-      <link>http://example.org/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/templates/</guid>
+      <guid>https://panzersoft.com/tags/recycling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>http://example.org/tags/theme/</link>
+      <link>https://panzersoft.com/tags/theme/</link>
       <pubDate>Wed, 07 Mar 2018 02:16:58 -0800</pubDate>
       
-      <guid>http://example.org/tags/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>http://example.org/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/themes/</guid>
+      <guid>https://panzersoft.com/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>http://example.org/tags/tips/</link>
-      <pubDate>Sat, 10 Mar 2018 17:23:09 -0800</pubDate>
+      <link>https://panzersoft.com/tags/tips/</link>
+      <pubDate>Sun, 10 Jun 2018 17:23:09 -0800</pubDate>
       
-      <guid>http://example.org/tags/tips/</guid>
+      <guid>https://panzersoft.com/tags/tips/</guid>
       <description></description>
     </item>
     
