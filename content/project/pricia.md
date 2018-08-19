@@ -2,7 +2,7 @@
 title: プリシアディフェンス
 date: 2018-08-18 09:17:17
 draft: false
-slug: blorg-bread-machine
+slug: pricia
 tags: ['iot', 'recycling']
 categories: ['products']
 ---

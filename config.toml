@@ -7,8 +7,8 @@ Copyright = "© PanzerSoft All Rights Reserved."
 logotype = '<span class="has-text-weight-bold site-title">Panzer<span class="has-text-danger">Soft</span></span>'
 #'PanzerSoft'
 fullname = "同人ゲームサークル panzerSoft のホームページへようこそ"
-footer = "This site is made by satoyan<br>"
-subfooter = "twitter"
+footer = "This site is made by satoya<br>"
+subfooter = "blog | projects | tags | dlsite | dmm | pixiv | twitter<br>"
 
 [menu]
 
@@ -56,3 +56,8 @@ subfooter = "twitter"
   parent = "project"
   weight = 203.0
 
+  [[menu.sectionmenu]]
+  name = "プリシア"
+  url = "project/pricia/"
+  parent = "project"
+  weight = 204.0

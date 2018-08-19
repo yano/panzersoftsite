@@ -24,8 +24,7 @@
 				<div class="column is-10 is-offset-1 has-text-centered">
 				 <!--has-text-centered">-->
 
-
-					<h1 class="title">{{ partial "logo.html" . }}</h1>
+					<!--<h1 class="title">{{ partial "logo.html" . }}</h1>-->
 
 					<h2 class="subtitle">
 						{{ with .Site.Params.fullname }}{{ . }}
@@ -36,9 +35,9 @@
 						{{ .Content }}
 					</div>
 
-					<h1 class="title is-1">
+					<div class="site-title2">
 						Projects
-					</h1>
+					</div>
 
 					<section class="hero is-info has-bg-img">
 						<a href="">
@@ -49,7 +48,7 @@
 									プリシアディフェンス
 								</h1>
 								<h2 class="subtitle is-4" style="font-weight: 900; -webkit-text-stroke: 0.8px #000;  text-shadow: #000 2px 2px 0;">
-									tyのアセットです
+									成人向けタワーディフェンス＋TPSアクションゲーム
 								</h2>
 							</div>
 						</div>
@@ -74,65 +73,67 @@
 					</section>
 
 					<br>
+					<br>
 
-					<h1 class="title is-1">Blog</h1>
-
-					<!--<div class="columns">-->
-						<!--<div class="column">-->
-
-							<!--<nav class="panel">-->
-								<!--&lt;!&ndash;<p class="panel-heading">&ndash;&gt;-->
-								<!--&lt;!&ndash;Blog&ndash;&gt;-->
-								<!--&lt;!&ndash;</p>&ndash;&gt;-->
-								<!--{{ range first 5 (where .Data.Pages "Section" "post") }}-->
-
-								<!--<a href="{{.Permalink}}" class="panel-block">-->
-								<!--<span class="panel-icon">-->
-									<!--<i class="fas fa-pencil-alt"></i>-->
-								<!--</span>-->
-									<!--{{ .Title }}-->
-								<!--</a>-->
-								<!--{{ end }}-->
-
-								<!--<a href="{{ "project/" | absURL }}" class="panel-block">-->
-								<!--<span class="has-text-centered">-->
-									<!--More posts...-->
-								<!--</span>-->
-								<!--</a>-->
-							<!--</nav>-->
-
+					<div class="site-title2">Blog</div>
+					<!--<div class="tile is-ancestor">-->
+						<!--<div class="tile is-12 is-vertical is-parent">-->
+							<!--{{ range first 5 (where .Data.Pages "Section" "post") }}-->
+								<!--<div class="tile is-child box">-->
+									<!--<div class="title is-4">-->
+										<!--<a href="{{.Permalink}}">{{ .Title }}</a>-->
+										<!--<br>-->
+									<!--</div>-->
+									<!--<div class="subtitle is-6">-->
+										<!--{{ partial "page-date.html" . }}-->
+									<!--</div>-->
+									<!--<p>-->
+										<!--{{.Summary}}-->
+									<!--</p>-->
+								<!--</div>-->
+							<!--{{ end }}-->
 						<!--</div>-->
 					<!--</div>-->
-
-					<div class="tile is-ancestor">
-						<div class="tile is-12 is-vertical is-parent">
+					<section class="articles">
+						<div class="column is-10 is-offset-1">
+							<!-- START ARTICLE -->
 							{{ range first 5 (where .Data.Pages "Section" "post") }}
-
-								<div class="tile is-child box">
-									<div class="title is-4">
-										<a href="{{.Permalink}}">
-										{{ .Title }}
-
-										</a>
-
-										<br>
+							<div class="card article">
+								<div class="card-content">
+									<div class="" >
+										<div class="has-text-centered">
+											<p class="title is-4 article-title">
+												<a href="{{.Permalink}}">{{ .Title }}</a>
+											</p>
+											<p class="subtitle is-6 article-subtitle">
+												<!--<span class="tag is-rounded">-->
+												{{ partial "page-date.html" . }}
+												<!--</span>-->
+											</p>
+											<!--<div class="tags has-addons level-item">-->
+												<!--<span class="tag is-rounded">May 10, 2018</span>-->
+											<!--</div>-->
+										</div>
 									</div>
-
-									<div class="subtitle is-6">
-										{{ partial "page-date.html" . }}
-									</div>
-
-									<p>
+									<p class="content article-body">
 										{{.Summary}}
 									</p>
 								</div>
+							</div>
+							<br>
 							{{ end }}
+							<!-- END ARTICLE -->
 						</div>
 
-					</div>
+					</section>
+
+
+
 					<p>
 						<a href="{{ "post/" | absURL}}">More posts...</a>
 					</p>
+
+
 
 					<!--<div class="columns" class="has-text-centered">-->
 						<!--<div class="column">-->
@@ -159,6 +160,10 @@
 			</div>
 		</div>
 	</div>
+
+
+
+
 	<div class="hero-foot">
 {{ partial "footer.html" . }}
 	</div>
