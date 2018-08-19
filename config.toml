@@ -3,12 +3,14 @@ languageCode = "en-us"
 title = "PanzerSoftのホームページ"
 Copyright = "© PanzerSoft All Rights Reserved."
 
+DisqusShortname="panzersoft"
+
 [Params]
 logotype = '<span class="has-text-weight-bold site-title">Panzer<span class="has-text-danger">Soft</span></span>'
 #'PanzerSoft'
 fullname = "同人ゲームサークル panzerSoft のホームページへようこそ"
 footer = "This site is made by satoya<br>"
-subfooter = "blog | projects | tags | dlsite | dmm | pixiv | twitter<br>"
+subfooter = "<a href='post'>blog</a> | <a href='project'>projects</a> | <a href='tags'>tags</a> | <a href='categories'>categories</a> | <a href='http://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20019.html'>dlsite</a> | <a href='https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28305/'>dmm</a> | <a href='https://github.com/yano'>github</a> | <a href='https://twitter.com/satoya_123'>twitter</a><br>"
 
 [menu]
 
@@ -24,13 +26,10 @@ subfooter = "blog | projects | tags | dlsite | dmm | pixiv | twitter<br>"
   parent = "about"
   weight = 101.0
 
-
-
   [[menu.sectionmenu]]
   name = "Blog"
   url = "post/"
   weight = 30.0
-
 
   [[menu.sectionmenu]]
   name = "Projects"

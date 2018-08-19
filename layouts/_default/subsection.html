@@ -17,9 +17,14 @@
 	<div class="container">
 		<div class="columns">
 			<div class="column is-10 is-offset-1">
-					{{ partial "section-crumbs.html" . }}
+
+
+					<!--{{ partial "section-crumbs.html" . }}-->
+
 				<article class="content">
-					<h1 class="title is-3">{{ .Title }}</h1>
+					<!--<h1 class="title is-3">{{ .Title }}</h1>-->
+					<div class="site-title2">{{ .Title }}</div>
+					<hr>
 					{{- partial "page-status.html" . -}}
 					{{- .Content }}
 				</article>
