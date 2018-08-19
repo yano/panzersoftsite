@@ -1,8 +1,8 @@
 ---
-title: プリシアディフェンス
+title: Desktop Mascot Maker
 date: 2018-08-18 09:17:17
 draft: false
-slug: プリシアディフェンス
+slug: desktopmascotmaker
 tags: ['iot', 'recycling']
 categories: ['products']
 ---

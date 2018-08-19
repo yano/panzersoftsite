@@ -20,11 +20,6 @@ subfooter = "<a href='post'>blog</a> | <a href='project'>projects</a> | <a href=
   identifier = "about"
   weight = 10.0
 
-  [[menu.sectionmenu]]
-  name = "Contact Us"
-  url = "about/contact/"
-  parent = "about"
-  weight = 101.0
 
   [[menu.sectionmenu]]
   name = "Blog"
@@ -38,25 +33,13 @@ subfooter = "<a href='post'>blog</a> | <a href='project'>projects</a> | <a href=
   weight = 20.0
 
   [[menu.sectionmenu]]
-  name = "Hugo-Smorg"
-  url = "project/hugo-smorg/"
-  parent = "project"
-  weight = 201.0
-
-  [[menu.sectionmenu]]
-  name = "Blorg Bread Machine"
-  url = "project/blorg-bread-machine/"
-  parent = "project"
-  weight = 202.0
-
-  [[menu.sectionmenu]]
-  name = "XYZ-1000"
-  url = "project/xyz-1000/"
+  name = "プリシアディフェンス"
+  url = "project/pricia/"
   parent = "project"
   weight = 203.0
 
   [[menu.sectionmenu]]
-  name = "プリシア"
-  url = "project/pricia/"
+  name = "Desktop Mascot Maker"
+  url = "project/desktopmascotmaker/"
   parent = "project"
   weight = 204.0
