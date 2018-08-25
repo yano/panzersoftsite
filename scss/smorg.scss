@@ -8,10 +8,13 @@
 // 4. Import swatch overrides
 // 5. Finish off with any theme specific customizations.
 
-// 1 
-@import "bulmaswatch/flatly/variables";
-// 2 
-$body-size:16px; 
+// 1 pulse/sandstone/flatly/Minty/lux/cosmo/cerulean
+//@import "bulmaswatch/flatly/variables";
+@import "bulmaswatch/sandstone/variables";
+//@import "bulmaswatch/pulse/variables";
+
+// 2
+$body-size:16px;
 $link: hsl(217, 71%,  53%);
 
 $family-sans-serif: "Open Sans", system-ui, sans-serif;
@@ -25,7 +28,10 @@ $family-monospace: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, 
 @import "bulma/bulma";
 // 4
 //@import "bulmaswatch/flatly/overrides";
-@import "bulmaswatch/flatly/overrides";
+@import "bulmaswatch/sandstone/overrides";
+//@import "bulmaswatch/pulse/overrides";
+
+
 // 5
 
 // Providing syntax highlighting theme:
@@ -39,7 +45,7 @@ $family-monospace: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, 
 // Optional!
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i);
 //@import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
-@import url(//fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
+//@import url(//fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
 //@import url(//fonts.googleapis.com/earlyaccess/mplus1p.css);
 
 

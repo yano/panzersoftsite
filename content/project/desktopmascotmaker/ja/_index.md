@@ -3,15 +3,16 @@ title: "Desktop Mascot Maker"
 description: "デスクトップマスコットメーカーは Unity でデスクトップマスコットキャラクターを作るUnityのアセットです。"
 date: 2018-08-26T03:07:53+09:00
 categories: []
-tags: []
+tags: [dev]
 draft: false
+layout: single
 ---
 
 <div style="text-align: right;">
-<a href="desktopmascotmaker/en/assetstore/">English version is here</a>
+    <a href="project/desktopmascotmaker/en/">English version is here</a>
 </div>
 
-![](desktopmascotmaker/images/title.png)
+![](project/desktopmascotmaker/images/title.png)
 
 <h1 class="title is-1">Unityでデスクトップマスコットを作ろう</h1>
 
@@ -46,7 +47,7 @@ DesktopMascotMakerは、Unity上でデスクトップマスコットを簡単に
 
 # デスクトップマスコットのキャラクターを色んな角度から眺めることができる
 
-![](desktopmascotmaker/images/niconi.gif)
+![](project/desktopmascotmaker/images/niconi.gif)
 
 # uGUIを利用してキャラクターに吹き出しやラベルを付けたり、ボタンで動かしたりする
 
@@ -58,7 +59,7 @@ uGUIのImageとTextを使って、キャラクターにセリフの吹き出し�
 
 Live2DやE-moteのUnityプラグインを併用すれば、2Dのキャラクターのデスクトップマスコット化も簡単です。
 
-![](desktopmascotmaker/images/DesktopMascotMaker141221E.png)
+![](project/desktopmascotmaker/images/DesktopMascotMaker141221E.png)
 
 # マウスイベントを使ってキャラクターとコミュニケーションする
 
@@ -72,7 +73,7 @@ Live2DやE-moteのUnityプラグインを併用すれば、2Dのキャラクタ�
 
 下図のように、カメラにMascotMaker（またはMascotMakerMulti）コンポーネントをアタッチします。
 
-![](desktopmascotmaker/images/AttachMascotMaker.png)
+![](project/desktopmascotmaker/images/AttachMascotMaker.png)
 
 キャラクターを表示させたら、そこからマウスイベントを追加したりカメラ／uGUIを操作するスクリプトを作ったりして、デスクトップマスコットらしく仕上げていきます。ここからが開発者さんの個性が出るところになります。
 
@@ -94,7 +95,7 @@ DesktopMascotMakerを使ったサンプルプログラムがいくつかある�
 
 この基本的なデモプログラムは、Desktop Mascot Makerのアセット内に含まれています。
 
-![](desktopmascotmaker/images/DesktopMascotMakerDemo.jpg)
+![](project/desktopmascotmaker/images/DesktopMascotMakerDemo.jpg)
 
 <a href="https://s3-us-west-2.amazonaws.com/panzersoft-assetstore/DesktopMascotMakerDemo200.zip" class="button is-large" target="_blank">基本的なデモのダウンロード</a>
 
@@ -104,7 +105,7 @@ DesktopMascotMakerを使ったサンプルプログラムがいくつかある�
 
 FinalIKを利用してこっちを見るようにしています
 
-![](desktopmascotmaker/images/DesktopMascotMaker141221F.jpg)
+![](project/desktopmascotmaker/images/DesktopMascotMaker141221F.jpg)
 
 <a href="https://bowlroll.net/file/55216" class="button is-large" target="_blank">ニコニ立体ちゃんのダウンロード（bowlroll）</a>
 
@@ -112,7 +113,7 @@ FinalIKを利用してこっちを見るようにしています
 
 いきなり音がでるので注意して下さい
 
-![](desktopmascotmaker/images/UnityChanLive4.gif)
+![](project/desktopmascotmaker/images/UnityChanLive4.gif)
 
 <a href="https://bowlroll.net/file/55485" class="button is-large" target="_blank">ユニティちゃんライブのダウンロード（bowlroll）</a>
 

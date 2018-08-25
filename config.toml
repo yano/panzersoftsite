@@ -5,8 +5,6 @@ Copyright = "© PanzerSoft All Rights Reserved."
 
 DisqusShortname="panzersoft"
 
-pygmentsUseClassic=true
-
 [Params]
 logotype = '<span class="has-text-weight-bold site-title">Panzer<span class="has-text-danger">Soft</span></span>'
 #'PanzerSoft'
@@ -35,18 +33,18 @@ subfooter = "<a href='post'>blog</a> | <a href='project'>projects</a> | <a href=
 
   [[menu.sectionmenu]]
   name = "プリシアディフェンス"
-  url = "project/pricia/"
+  url = "project/priciadefence/"
   parent = "project"
   weight = 203.0
 
   [[menu.sectionmenu]]
   name = "Desktop Mascot Maker (日本語)"
-  url = "desktopmascotmaker/ja/assetstore"
+  url = "project/desktopmascotmaker/ja/"
   parent = "project"
   weight = 204.0
 
   [[menu.sectionmenu]]
   name = "Desktop Mascot Maker (English)"
-  url = "desktopmascotmaker/en/assetstore"
+  url = "project/desktopmascotmaker/en/"
   parent = "project"
   weight = 205.0
