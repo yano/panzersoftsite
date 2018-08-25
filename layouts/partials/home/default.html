@@ -98,12 +98,12 @@
 					<section class="articles">
 						<div class="column is-10 is-offset-1">
 							<!-- START ARTICLE -->
-							{{ range first 5 (where .Data.Pages "Section" "post") }}
+							{{ range first 5 (where .Data.Pages "Section" "blog") }}
 							<div class="card article">
 								<div class="card-content">
 									<div class="" >
 										<div class="has-text-centered">
-											<p class="title is-4 article-title">
+											<p class="title is-3 article-title">
 												<a href="{{.Permalink}}">{{ .Title }}</a>
 											</p>
 											<p class="subtitle is-6 article-subtitle">
@@ -130,7 +130,7 @@
 
 
 					<p>
-						<a href="{{ "post/" | absURL}}">More posts...</a>
+						<a href="{{ "blog/" | absURL}}">More posts...</a>
 					</p>
 
 

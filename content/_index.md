@@ -4,7 +4,9 @@ draft: false
 title: hugo-smorg
 ---
 
-コミケC95に申し込みました。
+コミケC95に申し込みました。成人向けタワーディフェンス＋TPSアクションゲームを頒布予定です。
+
+頑張りますのでよろしくお願いします！
 
 ![This is a image](/images/180812E_circlecut2half.png)
 
