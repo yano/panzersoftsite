@@ -2,7 +2,6 @@
 title: "Desktop Mascot Maker"
 description: ""
 date: 2018-08-26T04:49:11+09:00
-categories: [Unity]
 tags: [Unity]
 draft: false
 layout: single
