@@ -16,6 +16,7 @@
 	{{- else -}}
 		{{ template "navbar-item" . }}
 	{{- end -}}
+
 {{- end -}}
 
 {{ define "navbar-item" }}
@@ -25,3 +26,4 @@
 {{ define "navbar-link" }}
 	<a class="navbar-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
 {{ end }}
+

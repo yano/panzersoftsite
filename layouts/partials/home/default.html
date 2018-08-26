@@ -45,7 +45,7 @@
 						<div class="hero-body">
 							<div class="container">
 								<h1 class="title is-1" style="font-weight: 900; -webkit-text-stroke: 1px #000; text-shadow: #000 2px 2px 0;">
-									プリシアディフェンス(制作中）
+									プリシアディフェンス(制作中)
 								</h1>
 								<h2 class="subtitle is-4" style="font-weight: 900; -webkit-text-stroke: 0.8px #000;  text-shadow: #000 2px 2px 0;">
 									成人向けタワーディフェンス＋TPSアクションゲーム
@@ -77,24 +77,7 @@
 					<br>
 
 					<div class="site-title2">Blog</div>
-					<!--<div class="tile is-ancestor">-->
-						<!--<div class="tile is-12 is-vertical is-parent">-->
-							<!--{{ range first 5 (where .Data.Pages "Section" "post") }}-->
-								<!--<div class="tile is-child box">-->
-									<!--<div class="title is-4">-->
-										<!--<a href="{{.Permalink}}">{{ .Title }}</a>-->
-										<!--<br>-->
-									<!--</div>-->
-									<!--<div class="subtitle is-6">-->
-										<!--{{ partial "page-date.html" . }}-->
-									<!--</div>-->
-									<!--<p>-->
-										<!--{{.Summary}}-->
-									<!--</p>-->
-								<!--</div>-->
-							<!--{{ end }}-->
-						<!--</div>-->
-					<!--</div>-->
+
 					<section class="articles">
 						<div class="column is-10 is-offset-1">
 							<!-- START ARTICLE -->
@@ -125,36 +108,11 @@
 							{{ end }}
 							<!-- END ARTICLE -->
 						</div>
-
 					</section>
-
 
 					<p>
 						<a href="{{ "blog/" | absURL}}">More posts...</a>
 					</p>
-
-
-
-					<!--<div class="columns" class="has-text-centered">-->
-						<!--<div class="column">-->
-							<!--<h3 class="subtitle has-text-primary is-marginless">Posts</h3>-->
-							<!--<ul>-->
-								<!--{{ range first 5 (where .Data.Pages "Section" "post") }}-->
-								<!--<li><a href="{{.Permalink}}"><span class="icon">✎</span>{{ .Title }}</a></li>-->
-								<!--{{ end }}-->
-								<!--<li><a href="{{ "post/" | absURL}}">More posts<span class="icon">➤</span></a></li>-->
-							<!--</ul>-->
-						<!--</div>-->
-						<!--<div class="column">-->
-							<!--<h3 class="subtitle has-text-primary is-marginless">Projects</h3>-->
-							<!--<ul>-->
-								<!--{{ range first 5 (where .Data.Pages "Section" "project") }}-->
-								<!--<li><a href="{{.Permalink}}"><span class="icon">※</span>{{ .Title }}</a></li>-->
-								<!--{{ end }}-->
-								<!--<li><a href="{{ "project/" | absURL }}">More projects<span class="icon">➤</span></a></li>-->
-							<!--</ul>-->
-						<!--</div>-->
-					<!--</div>-->
 
 				</div>
 			</div>
@@ -162,6 +120,6 @@
 	</div>
 
 	<div class="hero-foot">
-{{ partial "footer.html" . }}
+		{{ partial "footer.html" . }}
 	</div>
 </section>

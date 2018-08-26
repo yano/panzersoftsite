@@ -12,26 +12,24 @@
 	allowing for navigation among related pages in the section.
 
 -->
-{{- if $.Site.Params.debug }}<p class="has-text-danger">DEBUG: layouts/_default/subsection.html</p>{{ end -}}
+
+{{- if $.Site.Params.debug }}
+	<p class="has-text-danger">DEBUG: layouts/_default/project.html</p>
+{{ end -}}
 
 <section class="section" itemscope itemtype="http://schema.org/WebPage">
 	<div class="container">
-
 		<div class="columns">
 			<div class="column is-10 is-offset-1">
 
-				<!--{{ partial "section-crumbs.html" . }}-->
+				<div class="site-title2">{{ .Title }}</div>
 
-				<article class="content">
-					<!--<h1 class="title is-1">{{ .Title }}</h1>-->
-					<div class="site-title2">{{ .Title }}</div>
-					<hr>
-					{{- partial "page-status.html" . -}}
-					{{- .Content }}
-				</article>
+				<hr>
+
+				<!--{{- partial "page-status.html" . -}}-->
+				{{ .Content }}
 			</div>
 		</div>
 	</div>
 </section>
-
 {{ end }}

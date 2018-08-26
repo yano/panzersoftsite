@@ -14,6 +14,9 @@
 	<link rel="preload" href="https://panzersoft.com/css/smorg.css" as="style">
 	<link rel="stylesheet" href="https://panzersoft.com/css/smorg.css">
 	<meta name="generator" content="Hugo 0.47" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+
 
 </head>
 <body>
@@ -33,21 +36,20 @@
 			<div class="navbar-menu" id="navMenu">
 				<div class="navbar-end">
 					
+	<a class="navbar-item" href="https://panzersoft.com/about/">About</a>
+
 	<div class="navbar-item has-dropdown is-hoverable">
 		
-	<a class="navbar-link" href="https://panzersoft.com/about/">About</a>
+	<a class="navbar-link" href="https://panzersoft.com/project/">Projects</a>
 <div class="navbar-dropdown">
-	<a class="navbar-item" href="https://panzersoft.com/about/contact/">Contact Us</a>
+	<a class="navbar-item" href="https://panzersoft.com/project/priciadefence/">プリシアディフェンス</a>
+
+	<a class="navbar-item" href="https://panzersoft.com/project/desktopmascotmaker/ja/">Desktop Mascot Maker (日本語)</a>
+
+	<a class="navbar-item" href="https://panzersoft.com/project/desktopmascotmaker/en/">Desktop Mascot Maker (English)</a>
 </div>
 	</div>
-	<div class="navbar-item has-dropdown is-hoverable">
-		
-	<a class="navbar-link" href="https://panzersoft.com/game/">Games</a>
-<div class="navbar-dropdown">
-	<a class="navbar-item" href="https://panzersoft.com/game/pricia">プリシアディフェンス</a>
-</div>
-	</div>
-	<a class="navbar-item" href="https://panzersoft.com/post/">Blog</a>
+	<a class="navbar-item" href="https://panzersoft.com/blog/">Blog</a>
 
 
 
@@ -56,32 +58,15 @@
 			</div>
 		</div>
 	</nav>
-
-<section class="section" itemscope itemtype="http://schema.org/WebPage">
+<p class="has-text-danger">DEBUG: layouts/_default/single.html</p><section class="section" itemscope itemtype="http://schema.org/WebPage">
 	<div class="container">
 		<div class="columns">
-			<div class="column is-8 is-offset-2">
-					
-
-
-<nav class="breadcrumb" aria-label="breadcrumbs">
-	<ul>
-
-		<li class="is-active">
-			<a href="/about/" 
-				aria-current="page">About</a>
-		</li>
-			<li >
-				<a href="/about/contact/">Contact</a>
-			</li>
-			<li >
-				<a href="/about/contact/">Contact</a>
-			</li>
-	</ul>
-</nav>
-
+			<div class="column is-10 is-offset-1">
 				<article class="content">
-					<h1 class="title is-3">About</h1>
+					<h1 class="title is-1">About</h1>
+					<hr>
+					<p class="subtitle is-6 has-text-grey">
+					<em></em></p>
 <p>This example &ldquo;about&rdquo; page, and other pages associated with the &ldquo;About&rdquo; section,
 illustrate two features provided by Hugo-Smorg:</p>
 
@@ -126,6 +111,30 @@ page frontmatter:</p>
 
 <p>Get the theme here: <a href="https://github.com/solutionroute/hugo-smorg">https://github.com/solutionroute/hugo-smorg</a>.</p>
 
+					
+						<hr>
+						<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "panzersoft" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+					
+
 				</article>
 			</div>
 		</div>
@@ -135,14 +144,14 @@ page frontmatter:</p>
 <footer class="footer">
   <div class="container content">
 	<div class="has-text-centered">
-		<p>This site is made by satoyan
+		<p>This site is made by satoya<br>
 			  
 		   <span class="has-text-weight-bold site-title">Panzer<span class="has-text-danger">Soft</span></span>
 			   
 		   </p>
-		<hr>
+		
 		<p class="has-text-grey is-size-7">
-		 twitter<br>
+		 <a href='post'>blog</a> | <a href='project'>projects</a> | <a href='tags'>tags</a> | <a href='categories'>categories</a> | <a href='http://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20019.html'>dlsite</a> | <a href='https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28305/'>dmm</a> | <a href='https://github.com/yano'>github</a> | <a href='https://twitter.com/satoya_123'>twitter</a><br><br>
 			   
 		 © PanzerSoft All Rights Reserved.<br>
 			   
@@ -157,7 +166,7 @@ page frontmatter:</p>
 	"@context": "http://schema.org", 
 	"@type": "WebPage",
 	"@id": "https://panzersoft.com/about/",
-	"name": "About","description": "Demonstration of Hugo content management approach for subsection pages and associated breadcrumb menu."
+	"name": "About",
 }
 </script>
 

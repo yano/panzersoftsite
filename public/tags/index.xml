@@ -7,62 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© PanzerSoft All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Mar 2018 02:16:58 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Aug 2018 03:07:53 +0900</lastBuildDate>
     
 	<atom:link href="https://panzersoft.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bulma</title>
-      <link>https://panzersoft.com/tags/bulma/</link>
-      <pubDate>Wed, 07 Mar 2018 02:16:58 -0800</pubDate>
-      
-      <guid>https://panzersoft.com/tags/bulma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dev</title>
       <link>https://panzersoft.com/tags/dev/</link>
-      <pubDate>Sun, 10 Jun 2018 17:23:09 -0800</pubDate>
+      <pubDate>Sun, 26 Aug 2018 03:07:53 +0900</pubDate>
       
       <guid>https://panzersoft.com/tags/dev/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Iot</title>
-      <link>https://panzersoft.com/tags/iot/</link>
-      <pubDate>Sat, 18 Aug 2018 09:17:17 +0000</pubDate>
+      <title>Unity</title>
+      <link>https://panzersoft.com/tags/unity/</link>
+      <pubDate>Sun, 26 Aug 2018 04:49:11 +0900</pubDate>
       
-      <guid>https://panzersoft.com/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recycling</title>
-      <link>https://panzersoft.com/tags/recycling/</link>
-      <pubDate>Sat, 18 Aug 2018 09:17:17 +0000</pubDate>
-      
-      <guid>https://panzersoft.com/tags/recycling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>https://panzersoft.com/tags/theme/</link>
-      <pubDate>Wed, 07 Mar 2018 02:16:58 -0800</pubDate>
-      
-      <guid>https://panzersoft.com/tags/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tips</title>
-      <link>https://panzersoft.com/tags/tips/</link>
-      <pubDate>Sun, 10 Jun 2018 17:23:09 -0800</pubDate>
-      
-      <guid>https://panzersoft.com/tags/tips/</guid>
+      <guid>https://panzersoft.com/tags/unity/</guid>
       <description></description>
     </item>
     

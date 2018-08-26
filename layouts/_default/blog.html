@@ -5,7 +5,8 @@
 		<div class="columns">
 			<div class="column is-10 is-offset-1">
 				<article class="content">
-				<div class="site-title2">{{ .Title }}</div>
+					<div class="site-title2">{{ .Title }}</div>
+					<!--<h1 class="title is-1">{{ .Title }}</h1>-->
 				<hr>
 				{{ range .Paginator.Pages }}
 				{{ .Render "summary" }}

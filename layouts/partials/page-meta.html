@@ -1,4 +1,4 @@
-{{- if eq .Type "post" -}}
+{{- if eq .Type "blog" -}}
 	Posted {{ partial "page-date.html" . -}}
 	{{- with .Params.categories }}
 <!--in {{ partial "page-categories.html" . }}-->

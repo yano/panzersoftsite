@@ -5,17 +5,12 @@
 		<div class="columns">
 			<div class="column is-10 is-offset-1">
 				<article class="content">
-					<h1 class="title is-1">{{ .Title }}</h1>
+					<div class="site-title2">{{ .Title }}</div>
 					<hr>
 					<p class="subtitle is-6 has-text-grey">
 					<em>{{- partial "page-meta.html" . -}}</em></p>
-					<!--{{- partial "page-status.html" . -}}-->
 					{{ partial "page-status.html" .}}
 					{{- .Content }}
-					{{ if $.Site.DisqusShortname }}
-						<hr>
-						{{ template "_internal/disqus.html" . }}
-					{{ end }}
 
 				</article>
 			</div>

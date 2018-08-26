@@ -12,23 +12,5 @@
 	<atom:link href="https://panzersoft.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Contact Us</title>
-      <link>https://panzersoft.com/about/contact/</link>
-      <pubDate>Sun, 08 Apr 2018 09:16:58 -0800</pubDate>
-      
-      <guid>https://panzersoft.com/about/contact/</guid>
-      <description>We are a little busy exploring space right now; we&amp;rsquo;ll get back to you when we return to this solar system.</description>
-    </item>
-    
-    <item>
-      <title>Contact Us</title>
-      <link>https://panzersoft.com/about/contact/</link>
-      <pubDate>Sun, 08 Apr 2018 09:16:58 -0800</pubDate>
-      
-      <guid>https://panzersoft.com/about/contact/</guid>
-      <description>We are a little busy exploring space right now; we&amp;rsquo;ll get back to you when we return to this solar system.</description>
-    </item>
-    
   </channel>
 </rss>

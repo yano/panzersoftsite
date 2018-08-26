@@ -14,6 +14,9 @@
 	<link rel="preload" href="https://panzersoft.com/css/smorg.css" as="style">
 	<link rel="stylesheet" href="https://panzersoft.com/css/smorg.css">
 	<meta name="generator" content="Hugo 0.47" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+
 
 </head>
 <body>
@@ -33,21 +36,20 @@
 			<div class="navbar-menu" id="navMenu">
 				<div class="navbar-end">
 					
+	<a class="navbar-item" href="https://panzersoft.com/about/">About</a>
+
 	<div class="navbar-item has-dropdown is-hoverable">
 		
-	<a class="navbar-link" href="https://panzersoft.com/about/">About</a>
+	<a class="navbar-link" href="https://panzersoft.com/project/">Projects</a>
 <div class="navbar-dropdown">
-	<a class="navbar-item" href="https://panzersoft.com/about/contact/">Contact Us</a>
+	<a class="navbar-item" href="https://panzersoft.com/project/priciadefence/">プリシアディフェンス</a>
+
+	<a class="navbar-item" href="https://panzersoft.com/project/desktopmascotmaker/ja/">Desktop Mascot Maker (日本語)</a>
+
+	<a class="navbar-item" href="https://panzersoft.com/project/desktopmascotmaker/en/">Desktop Mascot Maker (English)</a>
 </div>
 	</div>
-	<div class="navbar-item has-dropdown is-hoverable">
-		
-	<a class="navbar-link" href="https://panzersoft.com/game/">Games</a>
-<div class="navbar-dropdown">
-	<a class="navbar-item" href="https://panzersoft.com/game/pricia">プリシアディフェンス</a>
-</div>
-	</div>
-	<a class="navbar-item" href="https://panzersoft.com/post/">Blog</a>
+	<a class="navbar-item" href="https://panzersoft.com/blog/">Blog</a>
 
 
 
@@ -56,26 +58,186 @@
 			</div>
 		</div>
 	</nav>
-<section class="section" itemscope itemtype="http://schema.org/AboutPage">
+<p class="has-text-danger">DEBUG: layouts/_default/taxonomy.html</p><section class="section" itemscope itemtype="http://schema.org/AboutPage">
 	<div class="container">
 		<div class="columns">
-			<div class="column is-8 is-offset-2">
+			<div class="column is-10 is-offset-1">
 				<article class="content">
 					<h1 class="title">Tag: Dev</h1>
 				
-				<article>
+				<p class="has-text-danger">DEBUG: layouts/_default/summary.html</p><article>
     <header>
-		<h1 class="title is-4"><a href="https://panzersoft.com/post/syntax-highlighting2/">Syntax Highlighting2</a> </h1>
+		<h1 class="title is-2"><a href="https://panzersoft.com/project/desktopmascotmaker/ja/">Desktop Mascot Maker</a> </h1>
 		<p class="subtitle has-text-grey-light is-6">
 		
-<time datetime="2018-06-10">10 June 2018</time>
+<time datetime="2018-08-26">26 August 2018</time>
 </p>
     </header>
-	<p>Code examples in different languagues to demonstrate syntax highlighting with
-the current <a href="https://github.com/solutionroute/hugo-smorg">hugo-smorg</a> theme.
-Inline code looks like <code>this-&gt;var</code> and <code>expand($flurb, $times)</code>.</p>
+    
+    <div style="text-align: right;">
+    <a href="project/desktopmascotmaker/en/">English version is here</a>
+</div>
 
-<p></p> <a href='https://panzersoft.com/post/syntax-highlighting2/'><nobr>Continue reading (400 words)...</nobr></a>
+<p><img src="project/desktopmascotmaker/images/title.png" alt="" /></p>
+
+<h1 class="title is-1">Unityでデスクトップマスコットを作ろう</h1>
+
+<p>デスクトップマスコットメーカーは Unity でデスクトップマスコットキャラクターを作るUnityのアセットです。</p>
+
+<p>Unity のカメラに映るものなら3Dでも2Dでも何でも、簡単にデスクトップマスコットを作ることができます。</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/wJ27IUKV5aw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<h1 class="title is-1">アセットの特徴</h1>
+
+<ul>
+<li>Unity5, Unity2017に対応</li>
+<li>Unityのスクリプトからマスコットを自由自在に操作できる</li>
+<li>マスコットの不透明度を自由に変更できる</li>
+<li>マスコット上で起こるクリック、ダブルクリック、マウスホイールなどのたくさんのイベント処理を利用できる</li>
+<li>マウスがマスコット上にあるかどうかを検出できる</li>
+<li>uGUIの表示に対応（Button/Toggle/ToggleGroup/Image/Text）</li>
+<li>Unityメインウィンドウの非表示化、半透明化に対応</li>
+<li>MascotMakerMultiコンポーネントを使って複数のデスクトップマスコットを同時に表示できる</li>
+<li>全てのコードがオープンソースです</li>
+</ul>
+
+<h1 class="title is-1">ご注意</h1>
+
+<ul>
+<li>ビルドのターゲットとなるプラットフォームは Windows だけとなります</li>
+</ul>
+
+<h1 class="title is-1">どんなことができるか？</h1>
+
+<p>Unityを使って、ゲームを作るようにデスクトップマスコットを作れたら便利だと思いませんか？</p>
+
+<p>DesktopMascotMakerは、Unity上でデスクトップマスコットを簡単に作ることができるアセットです。</p>
+
+<h1 id="デスクトップマスコットのキャラクターを色んな角度から眺めることができる">デスクトップマスコットのキャラクターを色んな角度から眺めることができる</h1>
+
+<p><img src="project/desktopmascotmaker/images/niconi.gif" alt="" /></p>
+
+<h1 id="uguiを利用してキャラクターに吹き出しやラベルを付けたり-ボタンで動かしたりする">uGUIを利用してキャラクターに吹き出しやラベルを付けたり、ボタンで動かしたりする</h1>
+
+<p>Unity4.6から登場したuGUIの表示に対応しています。</p>
+
+<p>uGUIのImageとTextを使って、キャラクターにセリフの吹き出しや、ラベルを付けることができます。</p>
+
+<h1 id="live2d-e-moteとの併用">Live2D/E-moteとの併用</h1>
+
+<p>Live2DやE-moteのUnityプラグインを併用すれば、2Dのキャラクターのデスクトップマスコット化も簡単です。</p>
+
+<p><img src="project/desktopmascotmaker/images/DesktopMascotMaker141221E.png" alt="" /></p>
+
+<h1 id="マウスイベントを使ってキャラクターとコミュニケーションする">マウスイベントを使ってキャラクターとコミュニケーションする</h1>
+
+<p>デスクトップマスコット上では、マウスのクリック、ダブルクリック、マウスホイール等のイベント検出が可能です。これらのイベントを使って、キャラクターとのインタラクションを実装できます。</p>
+
+<h1 class="title is-1">どうやって使うの？</h1>
+
+<p>キャラクターを表示させるだけなら超簡単です！</p>
+
+<p>キャラクターを表示するカメラに、DesktopMascotMakerのコンポーネントを１つ追加するだけです。</p>
+
+<p>下図のように、カメラにMascotMaker（またはMascotMakerMulti）コンポーネントをアタッチします。</p>
+
+<p><img src="project/desktopmascotmaker/images/AttachMascotMaker.png" alt="" /></p>
+
+<p>キャラクターを表示させたら、そこからマウスイベントを追加したりカメラ／uGUIを操作するスクリプトを作ったりして、デスクトップマスコットらしく仕上げていきます。ここからが開発者さんの個性が出るところになります。</p>
+
+<p>詳しくは、以下のドキュメントをご覧ください。</p>
+
+<h1 class="title is-1" name="doc">ドキュメントのダウンロード</h1>
+
+<p><a href="https://www.assetstore.unity3d.com/en/#!/publisher/9484" TARGET="_blank" class="button is-large">ドキュメント Version 1.9.0 (2018/01/14) 最新版</a></p>
+
+<p><a href="https://www.assetstore.unity3d.com/en/#!/publisher/9484" TARGET="_blank" class="button is-large">ドキュメント Version 1.8.0 (2016/02/10) for Unity 5</a></p>
+
+<p><a href="https://www.assetstore.unity3d.com/en/#!/publisher/9484" TARGET="_blank" class="button is-large">ドキュメント Version 1.8.0 (2016/02/10) for Unity 4.6</a></p>
+
+<h1 class="title is-1">デモプログラム</h1>
+
+<p>DesktopMascotMakerを使ったサンプルプログラムがいくつかあるので試しに使ってみてください。</p>
+
+<h1 id="基本的なデモ">基本的なデモ</h1>
+
+<p>この基本的なデモプログラムは、Desktop Mascot Makerのアセット内に含まれています。</p>
+
+<p><img src="project/desktopmascotmaker/images/DesktopMascotMakerDemo.jpg" alt="" /></p>
+
+<p><a href="https://s3-us-west-2.amazonaws.com/panzersoft-assetstore/DesktopMascotMakerDemo200.zip" class="button is-large" target="_blank">基本的なデモのダウンロード</a></p>
+
+<h1 id="ニコニ立体ちゃんのデスクトップマスコット">ニコニ立体ちゃんのデスクトップマスコット</h1>
+
+<p>パンツ丸見えのニコニ立体ちゃんのデスクトップマスコットです。</p>
+
+<p>FinalIKを利用してこっちを見るようにしています</p>
+
+<p><img src="project/desktopmascotmaker/images/DesktopMascotMaker141221F.jpg" alt="" /></p>
+
+<p><a href="https://bowlroll.net/file/55216" class="button is-large" target="_blank">ニコニ立体ちゃんのダウンロード（bowlroll）</a></p>
+
+<h1 id="ユニティちゃんライブのデスクトップマスコット">ユニティちゃんライブのデスクトップマスコット</h1>
+
+<p>いきなり音がでるので注意して下さい</p>
+
+<p><img src="project/desktopmascotmaker/images/UnityChanLive4.gif" alt="" /></p>
+
+<p><a href="https://bowlroll.net/file/55485" class="button is-large" target="_blank">ユニティちゃんライブのダウンロード（bowlroll）</a></p>
+
+<h1 class="title is-1">Unityアセットストアで販売中</h1>
+
+<p><a href="https://assetstore.unity.com/packages/templates/systems/desktop-mascot-maker-23732" class="button is-large is-success" target="_blank">アセットストアへ</a></p>
+
+<h1 class="title is-1">無料トライアル版でお試し</h1>
+
+<p>機能無制限、利用期限なしの無料トライアル版がダウンロードできます。</p>
+
+<p><a href="https://s3-us-west-2.amazonaws.com/panzersoft-assetstore/DesktopMascotMakerTrial.zip" class="button is-large is-success" target="_blank">無料トライアル版をダウンロード</a></p>
+
+<h1 class="title is-1">連絡先</h1>
+
+<p>トラブル、ご要望などございましたらこちらへお問い合わせ下さい。</p>
+
+<p><a href="https://www.assetstore.unity3d.com/en/#!/publisher/9484" TARGET="_blank" class="button is-large">お問い合わせ先</a></p>
+
+<p></p> 
+  <footer>
+  </footer>
+</article>
+<br>
+
+				
+				<p class="has-text-danger">DEBUG: layouts/_default/summary.html</p><article>
+    <header>
+		<h1 class="title is-2"><a href="https://panzersoft.com/blog/180818/">HugoでWebサイトを作ってみた</a> </h1>
+		<p class="subtitle has-text-grey-light is-6">
+		
+<time datetime="2018-08-18">18 August 2018</time>Posted 
+<time datetime="2018-08-18">18 August 2018</time>
+
+&nbsp; 
+
+
+    <span class="tag">
+        <a href="https://panzersoft.com/tags/dev">dev </a>
+    </span>
+
+
+
+
+
+
+
+</p>
+    </header>
+    
+    <p></p> <a href='https://panzersoft.com/blog/180818/'><nobr>続きを読む ...</nobr></a>
   <footer>
   </footer>
 </article>
@@ -93,14 +255,14 @@ Inline code looks like <code>this-&gt;var</code> and <code>expand($flurb, $times
 <footer class="footer">
   <div class="container content">
 	<div class="has-text-centered">
-		<p>This site is made by satoyan
+		<p>This site is made by satoya<br>
 			  
 		   <span class="has-text-weight-bold site-title">Panzer<span class="has-text-danger">Soft</span></span>
 			   
 		   </p>
-		<hr>
+		
 		<p class="has-text-grey is-size-7">
-		 twitter<br>
+		 <a href='post'>blog</a> | <a href='project'>projects</a> | <a href='tags'>tags</a> | <a href='categories'>categories</a> | <a href='http://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20019.html'>dlsite</a> | <a href='https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28305/'>dmm</a> | <a href='https://github.com/yano'>github</a> | <a href='https://twitter.com/satoya_123'>twitter</a><br><br>
 			   
 		 © PanzerSoft All Rights Reserved.<br>
 			   

@@ -1,13 +1,17 @@
 {{- if $.Site.Params.debug }}<p class="has-text-danger">DEBUG: layouts/_default/summary.html</p>{{ end -}}
 <article>
     <header>
-		<h1 class="title is-2"><a href="{{ .Permalink }}">{{ .Title }}</a> </h1>
+		<h1 class="title is-3"><a href="{{ .Permalink }}">{{ .Title }}</a> </h1>
 		<p class="subtitle has-text-grey-light is-6">
-		{{ partial "page-date.html" . }}{{ partial "page-status.html" .}}</p>
+		<!--{{ partial "page-date.html" . }}-->
+            {{ partial "page-meta.html" .}}{{ partial "page-status.html" .}}</p>
     </header>
     <!--{{ .Summary }} {{ if .Truncated }}<a href='{{ .Permalink }}'><nobr>Continue reading ({{ .FuzzyWordCount }} words)...</nobr></a>{{end}}-->
-    {{ .Summary }} {{ if .Truncated }}<a href='{{ .Permalink }}'><nobr>続きを読む ...</nobr></a>{{end}}
-  <footer>
-  </footer>
+    {{ .Summary }}
+    {{ if .Truncated }}<a href='{{ .Permalink }}'><nobr>続きを読む ...</nobr></a>{{end}}
+
+    <footer>
+        <hr>
+    </footer>
 </article>
 <br>
