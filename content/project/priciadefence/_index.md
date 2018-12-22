@@ -7,7 +7,15 @@ layout: subsection
 ---
 
 <!--<div class="container">-->
-<img src="project/priciadefence/images/pricia_title.jpg" alt="drawing" width="600"/>
+<img src="project/priciadefence/images/pricia_dlsite_title.jpg" alt="drawing" width="600"/>
+
+<h1>特徴</h1>
+
+ゲームジャンルは、TPS(Third Person Shooting) ＋タワーディフェンスです。
+
+- 異種姦
+- ３D
+- リアルタイムHシステム
 
 <h1>ストーリー</h1>
 
@@ -44,14 +52,59 @@ layout: subsection
 
 <h1>ゲームの流れ</h1>
 
-タワーディフェンスゲームです。
+
+
+フィールド上を探索して、自分を強化したり装備を整えたりしながら戦いに備えます。
+
+<img src="project/priciadefence/images/pricia_field.jpg" alt="" width="600"/>
+
+タワーディフェンスのフィールドに入ると戦闘になります。<br>
+<span style="color:red">赤いクリスタル</span>からモンスターが侵入してきます。<br>
+モンスターが<span style="color:blue;">青いクリスタル</span>に到達しないように防衛します。<br>
+
+<img src="project/priciadefence/images/pricia_trap1.jpg" alt="" width="600"/>
+
+防衛を有利にすすめるためには、罠を地面に設置します。罠の設置にはMPを消費します。
+
+<img src="project/priciadefence/images/pricia_trap2.jpg" alt="" width="600"/>
+
+罠を設置したら戦闘開始です。うまく立ち回って青色のクリスタルを守りましょう！
+
+<img src="project/priciadefence/images/pricia_battle1.jpg" alt="drawing" width="600"/>
+
+モンスターにダウンを奪われると強制エッチに突入します。<br>
+強制エッチ時には徐々にダメージを受けます。AとDを交互に連打して復帰しましょう。
+
+
+<img src="project/priciadefence/images/pricia_sousa3.jpg" alt="drawing" width="600"/>
+
 
 
 <h1>操作方法</h1>
 
-- Unity5, Unity2017に対応
-- Unityのスクリプトからマスコットを自由自在に操作できる
+<img src="project/priciadefence/images/pricia_sousa1.jpg" alt="drawing" width="600"/>
+
+<img src="project/priciadefence/images/pricia_sousa2.jpg" alt="drawing" width="600"/>
+
+
+<h1>設定方法</h1>
+
+- 音量調節（BGM/Voice/SE）
+- 難易度は４つのモードから選択できます（EASY/NORMAL/HARD/INCUBUS）
+- 画面解像度は（816x624/）
+- F11で
+
+<img src="project/priciadefence/images/pricia_config.jpg" alt="drawing" width="600"/>
 
 
 
+<h1>動作環境</h1>
 
+
+
+- CPU：Core i5以上
+- メモリ：8GB以上
+- HDD：1GB以上の空き
+- 最近のGPUを搭載している
+
+※プリシアディフェンスは３Dゲームですのでオンボード以外の（Nvidia製/AMD製の）GPUが必要です。

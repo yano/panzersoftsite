@@ -4,3 +4,4 @@ node_modules
 nouse
 exampleSite/public
 public
+.idea
