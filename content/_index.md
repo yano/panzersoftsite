@@ -4,22 +4,30 @@ draft: false
 title: hugo-smorg
 ---
 
-コミケC95当選しました！
+コミケC95に当サークルブースに来ていただいた皆様、ありがとうございました。
 
-<h1><span style="color:red;">２日目 ツ-02b</span>でお待ちしています。</h1>
-<br>
+<hr>
 
-成人向け異種姦タワーディフェンス＋TPSアクションゲーム「プリシアディフェンス」を1000円で頒布します。
+DLsiteで販売開始しました！
+
+<a href="https://www.dlsite.com/maniax/work/=/product_id/RJ241680.html"
+target="_blank"><img src="https://www.dlsite.com/img/dlsite1.gif"
+border="0" alt="プリシアディフェンス DLsite直リンク"></a>
+
+2019/02/10 まで 20%セール を行っています。
+
+この機会を是非お見逃しなく！
 
 
-![This is a image](/images/pricia_card01.jpg)
-![This is a image](/images/180812E_circlecut2half.png)
+![Pricia Defence Title Image](/project/priciadefence/images/pricia_dlsite_title.jpg)
 
-DLsite, FANZA(旧DMM)でも販売予定です。
+<iframe width="560" height="460.02547770701" src="https://chobit.cc/embed/ku9oc/ankcr11c" frameborder="0" allowfullscreen></iframe>
 
+<hr>
 
 <!--
 [Hugo-smorg]: https://github.com/solutionroute/hugo-smorg
 [Bulma]: https://bulma.io/
 [Bulmaswatch]: https://jenil.github.io/bulmaswatch/
 -->
+

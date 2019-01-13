@@ -2,12 +2,21 @@
 title: "プリシアディフェンス"
 subtitle: "aaa"
 date: 2018-08-19T08:29:59+09:00
+tags: ['ゲーム','プリシアディフェンス']
 draft: false
 layout: subsection
 ---
 
 <!--<div class="container">-->
 <img src="project/priciadefence/images/pricia_dlsite_title.jpg" alt="drawing" width="600"/>
+
+<h1>販売情報</h1>
+
+<a href="https://www.dlsite.com/maniax/work/=/product_id/RJ241680.html"
+target="_blank"><img src="https://www.dlsite.com/img/dlsite1.gif"
+border="0" alt="プリシアディフェンス DLsite直リンク"></a>
+
+その他、即売会イベント（コミケ等）でも販売しています。
 
 <h1>特徴</h1>
 
@@ -91,20 +100,29 @@ layout: subsection
 
 - 音量調節（BGM/Voice/SE）
 - 難易度は４つのモードから選択できます（EASY/NORMAL/HARD/INCUBUS）
-- 画面解像度は（816x624/）
-- F11で
+- 画面解像度は（816x624/1224x936/1632x1248）の中から選択できます。
+- F11でフルスクリーンモード、ウィンドウモードの切り替えができます。
 
 <img src="project/priciadefence/images/pricia_config.jpg" alt="drawing" width="600"/>
 
 
-
 <h1>動作環境</h1>
-
-
 
 - CPU：Core i5以上
 - メモリ：8GB以上
 - HDD：1GB以上の空き
-- 最近のGPUを搭載している
+- 最近のGPUを搭載している（Nvidia GTX750Ti相当以上）
 
 ※プリシアディフェンスは３Dゲームですのでオンボード以外の（Nvidia製/AMD製の）GPUが必要です。
+
+
+<h1>攻略情報</h1>
+
+少し攻略する上で分かりにくいところがあるので下記ページにまとめてあります。
+
+ネタバレOKな方はご覧ください。
+
+[攻略情報のページ](project/priciadefence/kouryaku/)
+
+
+
