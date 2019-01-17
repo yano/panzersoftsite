@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b2a8fa3-7b74-435c-8eca-bbc996ef7bee" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/project/priciadefence/images/pricia_ending.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/project/priciadefence/images/pricia_zettaisya.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/content/project/priciadefence/_index.md" afterPath="$PROJECT_DIR$/content/project/priciadefence/_index.md" />
       <change beforePath="$PROJECT_DIR$/content/project/priciadefence/kouryaku/_index.md" afterPath="$PROJECT_DIR$/content/project/priciadefence/kouryaku/_index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -319,7 +316,7 @@
         <entry file="file://$PROJECT_DIR$/content/project/priciadefence/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1761">
+              <first_editor relative-caret-position="2356">
                 <caret line="124" column="16" lean-forward="false" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
                 <folding />
               </first_editor>
@@ -345,8 +342,8 @@
         <entry file="file://$PROJECT_DIR$/content/project/priciadefence/kouryaku/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="944">
-                <caret line="64" column="36" lean-forward="true" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+              <first_editor relative-caret-position="545">
+                <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -782,12 +779,13 @@
       <workItem from="1545635926664" duration="599000" />
       <workItem from="1545890303668" duration="113000" />
       <workItem from="1547382016441" duration="8634000" />
-      <workItem from="1547687430103" duration="2055000" />
+      <workItem from="1547687430103" duration="2167000" />
+      <workItem from="1547691049661" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145074000" />
+    <option name="totallyTimeSpent" value="145193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1456" extended-state="6" />
@@ -1238,7 +1236,7 @@
     <entry file="file://$PROJECT_DIR$/content/project/priciadefence/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1761">
+          <first_editor relative-caret-position="2356">
             <caret line="124" column="16" lean-forward="false" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
             <folding />
           </first_editor>
@@ -1249,8 +1247,8 @@
     <entry file="file://$PROJECT_DIR$/content/project/priciadefence/kouryaku/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="944">
-            <caret line="64" column="36" lean-forward="true" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+          <first_editor relative-caret-position="545">
+            <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
