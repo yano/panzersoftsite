@@ -122,7 +122,7 @@ border="0" alt="プリシアディフェンス DLsite直リンク"></a>
 
 ネタバレOKな方はご覧ください。
 
-[攻略情報のページ](project/priciadefence/kouryaku/)
+[<b>攻略情報のページ</b>](project/priciadefence/kouryaku/)
 
 
 
