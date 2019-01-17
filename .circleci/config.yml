@@ -49,6 +49,9 @@ jobs:
         - v1-dep-master-
         # Any branch if there are none on the default branch - this should be unnecessary if you have your default branch configured correctly
         - v1-dep-
+    # locale setting
+    - run: sudo apt-get install language-pack-ja
+    - run: sudo update-locale LANG=ja_JP.UTF-8
     # This is based on your 1.0 configuration file or project settings
     - run: wget https://github.com/spf13/hugo/releases/download/v0.46/hugo_0.46_Linux-64bit.deb
     - run: sudo dpkg -i hugo_0.46_Linux-64bit.deb
