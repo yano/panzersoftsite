@@ -72,7 +72,7 @@ jobs:
     # Test
     #   This would typically be a build job when using workflows, possibly combined with build
     # This is based on your 1.0 configuration file or project settings
-    - run: hugo
+    - run: hugo -v
     # Deployment
     # Your existing circle.yml file contains deployment steps.
     # The config translation tool does not support translating deployment steps
@@ -81,13 +81,13 @@ jobs:
     # Teardown
     #   If you break your build into multiple jobs with workflows, you will probably want to do the parts of this that are relevant in each
     # Save test results
-    - store_test_results:
-        path: /tmp/circleci-test-results
+    #- store_test_results:
+    #    path: /tmp/circleci-test-results
     # Save artifacts
-    - store_artifacts:
-        path: /tmp/circleci-artifacts
-    - store_artifacts:
-        path: /tmp/circleci-test-results
+    #- store_artifacts:
+    #    path: /tmp/circleci-artifacts
+    #- store_artifacts:
+    #    path: /tmp/circleci-test-results
   deploy:
     docker:
       - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
