@@ -78,10 +78,6 @@ jobs:
     # The config translation tool does not support translating deployment steps
     # since deployment in CircleCI 2.0 are better handled through workflows.
     # See the documentation for more information https://circleci.com/docs/2.0/workflows/
-    # 生成した静的サイトをS3に同期
-    - run: aws s3 sync --exact-timestamps public/ s3://panzersoft.com/ --delete
-    # CloudFrontのキャッシュをクリア
-    - run: aws cloudfront create-invalidation --distribution-id E3CE58N2IY05HA --paths '/*'
     # Teardown
     #   If you break your build into multiple jobs with workflows, you will probably want to do the parts of this that are relevant in each
     # Save test results

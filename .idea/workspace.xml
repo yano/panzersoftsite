@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7b2a8fa3-7b74-435c-8eca-bbc996ef7bee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.circleci/config.yml" afterPath="$PROJECT_DIR$/.circleci/config.yml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -333,8 +334,8 @@
       <file leaf-file-name="config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1183">
-              <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+            <state relative-caret-position="556">
+              <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -658,6 +659,93 @@
               <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
               <item name=".circleci" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="archetypes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="nouse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="smorg.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -738,12 +826,12 @@
       <workItem from="1547382016441" duration="8634000" />
       <workItem from="1547687430103" duration="2167000" />
       <workItem from="1547691049661" duration="700000" />
-      <workItem from="1547691789987" duration="2276000" />
+      <workItem from="1547691789987" duration="2890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148162000" />
+    <option name="totallyTimeSpent" value="148776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1456" extended-state="6" />
@@ -1191,8 +1279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1183">
-          <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        <state relative-caret-position="556">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
         </state>
       </provider>
