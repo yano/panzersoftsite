@@ -95,7 +95,7 @@ jobs:
     steps:
       - run:
           name: sync to s3
-          command: aws s3 sync --exact-timestamps public/ s3://panzersoft.com/ --delete
+          command: aws s3 sync --exact-timestamps ~/yano/panzersoftsite/public/ s3://panzersoft.com/ --delete
       - run:
           name: clear cloudfront cache
           command: aws cloudfront create-invalidation --distribution-id E3CE58N2IY05HA --paths '/*'
