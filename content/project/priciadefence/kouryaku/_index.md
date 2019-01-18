@@ -67,6 +67,10 @@ EASYモードでプレイしている場合のみ、救済アイテム「絶対�
 
 <img src="project/priciadefence/images/pricia_ending.jpg" alt="" width="600"/>
 
+回想シーンの閲覧では、鎧の着脱機能、敵キャラの透過表示機能を利用できます。
+
+<img src="project/priciadefence/images/pricia_kaisou.jpg" alt="" width="600"/>
+
 <br>
 <hr>
 

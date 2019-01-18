@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b2a8fa3-7b74-435c-8eca-bbc996ef7bee" name="Default Changelist" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/project/priciadefence/images/kaisou.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/content/project/priciadefence/kouryaku/_index.md" afterPath="$PROJECT_DIR$/content/project/priciadefence/kouryaku/_index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -158,8 +158,8 @@
         <entry file="file://$PROJECT_DIR$/content/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="247">
-                <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <first_editor relative-caret-position="266">
+                <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -296,7 +296,7 @@
         <entry file="file://$PROJECT_DIR$/content/project/priciadefence/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1206">
+              <first_editor relative-caret-position="2356">
                 <caret line="124" column="16" lean-forward="false" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
                 <folding />
               </first_editor>
@@ -322,8 +322,8 @@
         <entry file="file://$PROJECT_DIR$/content/project/priciadefence/kouryaku/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="260">
-                <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+              <first_editor relative-caret-position="997">
+                <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -334,7 +334,7 @@
       <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
+            <state relative-caret-position="931">
               <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
               <folding />
             </state>
@@ -626,8 +626,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="101" />
-    <option name="y" value="9" />
+    <option name="x" value="443" />
+    <option name="y" value="136" />
     <option name="width" value="1940" />
     <option name="height" value="1161" />
   </component>
@@ -678,7 +678,20 @@
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="priciadefence" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="priciadefence" type="462c0819:PsiDirectoryNode" />
               <item name="kouryaku" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -697,19 +710,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GoogleDrive\panzersoftsite\content\project\priciadefence\images" />
+      <recent name="F:\GoogleDrive\panzersoftsite\.circleci" />
+      <recent name="F:\GoogleDrive\panzersoftsite\content\project\priciadefence\kouryaku" />
+      <recent name="F:\GoogleDrive\panzersoftsite\nouse" />
+      <recent name="F:\GoogleDrive\panzersoftsite\layouts\_default" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\GoogleDrive\panzersoftsite\content\blog" />
       <recent name="F:\GoogleDrive\panzersoftsite\content\project\priciadefence\images" />
       <recent name="F:\GoogleDrive\panzersoftsite\content\images" />
       <recent name="F:\GoogleDrive\panzersoftsite\layouts\_default" />
       <recent name="F:\GoogleDrive\panzersoftsite\content\desktopmascotmaker\images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\GoogleDrive\panzersoftsite\.circleci" />
-      <recent name="F:\GoogleDrive\panzersoftsite\content\project\priciadefence\images" />
-      <recent name="F:\GoogleDrive\panzersoftsite\content\project\priciadefence\kouryaku" />
-      <recent name="F:\GoogleDrive\panzersoftsite\nouse" />
-      <recent name="F:\GoogleDrive\panzersoftsite\layouts\_default" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -760,12 +773,14 @@
       <workItem from="1547382016441" duration="8634000" />
       <workItem from="1547687430103" duration="2167000" />
       <workItem from="1547691049661" duration="700000" />
-      <workItem from="1547691789987" duration="8242000" />
+      <workItem from="1547691789987" duration="8839000" />
+      <workItem from="1547750189804" duration="1802000" />
+      <workItem from="1547809093517" duration="240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154128000" />
+    <option name="totallyTimeSpent" value="156767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1456" extended-state="6" />
@@ -861,7 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -869,7 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1046,7 +1059,7 @@
     <entry file="file://$PROJECT_DIR$/content/project/priciadefence/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1206">
+          <first_editor relative-caret-position="2356">
             <caret line="124" column="16" lean-forward="false" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
             <folding />
           </first_editor>
@@ -1056,7 +1069,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
+        <state relative-caret-position="931">
           <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding />
         </state>
@@ -1156,17 +1169,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="247">
-            <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/project/desktopmascotmaker/en/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1208,11 +1210,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="266">
+            <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content/project/priciadefence/kouryaku/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="260">
-            <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <first_editor relative-caret-position="997">
+            <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
