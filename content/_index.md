@@ -4,22 +4,26 @@ draft: false
 title: hugo-smorg
 ---
 
-コミケC95に当サークルブースに来ていただいた皆様、ありがとうございました。
+<hr>
+
+【お知らせ】2019年3月22日～　プリシアディフェンスのパッケージ版を販売予定です。
+
+<a href="http://www.istudio.jp/cat13/cat842/">詳しくはこちら（アイ・スタジオ様ホームページ）</a>
+
+![Pricia Defence Package Image](/project/priciadefence/images/pricia_dvd01_small.jpg)
+
 
 <hr>
 
-DLsiteで販売開始しました！
+DLsiteでも販売中
 
 <a href="https://www.dlsite.com/maniax/work/=/product_id/RJ241680.html"
 target="_blank"><img src="https://www.dlsite.com/img/dlsite1.gif"
 border="0" alt="プリシアディフェンス DLsite直リンク"></a>
 
-2019/02/10 まで 20%セール を行っています。
-
-この機会を是非お見逃しなく！
 
 
-![Pricia Defence Title Image](/project/priciadefence/images/pricia_dlsite_title.jpg)
+<!-- ![Pricia Defence Title Image](/project/priciadefence/images/pricia_dlsite_title.jpg) -->
 
 <iframe width="560" height="460.02547770701" src="https://chobit.cc/embed/ku9oc/ankcr11c" frameborder="0" allowfullscreen></iframe>
 
