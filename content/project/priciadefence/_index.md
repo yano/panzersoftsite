@@ -123,6 +123,20 @@ border="0" alt="プリシアディフェンス DLsite直リンク"></a>
 
 [<h2><b>攻略情報のページ</b></h2>](project/priciadefence/kouryaku/)
 
+<h1>セーブデータの保存場所</h1>
+
+セーブデータは、下記フォルダに配置されています。
+
+C:\Users\\(ユーザー名)\AppData\LocalLow\PanzerSoft\プリシアディフェンス
+
+こちらのフォルダ内の
+
+- RPG_Config
+- RPG_Global
+- RPG_File1～20
+
+がセーブデータになります。 
+
 <h1>サポート</h1>
 
 本製品に関しましてご意見・ご要望等がございましたら
