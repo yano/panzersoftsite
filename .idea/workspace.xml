@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b2a8fa3-7b74-435c-8eca-bbc996ef7bee" name="Default Changelist" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/images/000b_istudio.gif" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/content/_index.md" afterPath="$PROJECT_DIR$/content/_index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -157,8 +159,8 @@
         <entry file="file://$PROJECT_DIR$/content/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="152">
-                <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <first_editor relative-caret-position="171">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -301,7 +303,7 @@
         <entry file="file://$PROJECT_DIR$/content/project/priciadefence/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="883">
+              <first_editor relative-caret-position="2451">
                 <caret line="129" column="9" lean-forward="false" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
                 <folding />
               </first_editor>
@@ -642,8 +644,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -660,33 +660,7 @@
               <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="desktopmascotmaker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panzersoftsite" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="priciadefence" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="panzersoftsite" type="b2602c69:ProjectViewProjectNode" />
@@ -697,6 +671,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -708,19 +684,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GoogleDrive\panzersoftsite\content\images" />
+      <recent name="F:\GoogleDrive\panzersoftsite\content\blog" />
+      <recent name="F:\GoogleDrive\panzersoftsite\content\project\priciadefence\images" />
+      <recent name="F:\GoogleDrive\panzersoftsite\layouts\_default" />
+      <recent name="F:\GoogleDrive\panzersoftsite\content\desktopmascotmaker\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\GoogleDrive\panzersoftsite\content\project\priciadefence\images" />
       <recent name="F:\GoogleDrive\panzersoftsite\.circleci" />
       <recent name="F:\GoogleDrive\panzersoftsite\content\project\priciadefence\kouryaku" />
       <recent name="F:\GoogleDrive\panzersoftsite\nouse" />
       <recent name="F:\GoogleDrive\panzersoftsite\layouts\_default" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\GoogleDrive\panzersoftsite\content\blog" />
-      <recent name="F:\GoogleDrive\panzersoftsite\content\images" />
-      <recent name="F:\GoogleDrive\panzersoftsite\content\project\priciadefence\images" />
-      <recent name="F:\GoogleDrive\panzersoftsite\layouts\_default" />
-      <recent name="F:\GoogleDrive\panzersoftsite\content\desktopmascotmaker\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -779,12 +755,13 @@
       <workItem from="1548392753279" duration="24000" />
       <workItem from="1548640367159" duration="619000" />
       <workItem from="1549937192527" duration="3883000" />
-      <workItem from="1553689072333" duration="3132000" />
+      <workItem from="1553689072333" duration="4103000" />
+      <workItem from="1554957032354" duration="651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168623000" />
+    <option name="totallyTimeSpent" value="170245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="2514" height="1456" extended-state="6" />
@@ -887,7 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,7 +1064,7 @@
     <entry file="file://$PROJECT_DIR$/content/project/priciadefence/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="883">
+          <first_editor relative-caret-position="2451">
             <caret line="129" column="9" lean-forward="false" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
             <folding />
           </first_editor>
@@ -1184,7 +1160,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1235,8 +1210,8 @@
     <entry file="file://$PROJECT_DIR$/content/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <first_editor relative-caret-position="171">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
