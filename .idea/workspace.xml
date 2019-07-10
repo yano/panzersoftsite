@@ -260,7 +260,7 @@
         <entry file="file://$PROJECT_DIR$/layouts/partials/home/default.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -649,7 +649,7 @@
       <path value="$PROJECT_DIR$/themes/hugo-smorg/scss/system-font-css/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="443" />
     <option name="y" value="136" />
     <option name="width" value="1940" />
@@ -858,15 +858,15 @@
       <workItem from="1549937192527" duration="3883000" />
       <workItem from="1553689072333" duration="4103000" />
       <workItem from="1554957032354" duration="1250000" />
-      <workItem from="1554969341432" duration="400000" />
+      <workItem from="1554969341432" duration="600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171244000" />
+    <option name="totallyTimeSpent" value="171444000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="443" y="136" width="1940" height="1161" extended-state="1" />
+    <frame x="443" y="136" width="1940" height="1161" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13196635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1331,7 +1331,7 @@
     <entry file="file://$PROJECT_DIR$/layouts/partials/home/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding />
         </state>
       </provider>

@@ -15,11 +15,13 @@ border="0" alt="プリシアディフェンス DLsite直リンク"></a>
 
 <a href="http://www.istudio.jp/cat13/cat842/" target="_blank">![パッケージ版](/images/000b_istudio.gif)</a>
 
+<a href="https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_156101/panzersoft-001">FANZA</a>
+
 <hr>
 
 <!-- ![Pricia Defence Title Image](/project/priciadefence/images/pricia_dlsite_title.jpg) -->
 
-<iframe width="560" height="460.02547770701" src="https://chobit.cc/embed/ku9oc/ankcr11c" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="560" height="460.02547770701" src="https://chobit.cc/embed/ku9oc/ankcr11c" frameborder="0" allowfullscreen></iframe> -->
 
 <hr>
 
